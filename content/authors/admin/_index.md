@@ -18,22 +18,27 @@ organizations:
   url: "http://jaklenecgroup.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-I am a postdoctoral researcher in the Jaklenec Group at the Langer Lab. My research interests include:
+bio: I am a postdoctoral researcher in the Jaklenec Group at the Langer Lab. My research interests include:
 
+interests:
 (1) engineering biodegradable polymers for vaccine delivery
 (2) polymer processing for biomedical applications
 (3) drug delivery systems for nucleic acid-based therapeutics
 (4) immunomodulatory biomaterials
 
 
+
 education:
   courses:
-  - course: PhD in Bioengineering
-    institution: University of Maryland, College Park
-    year: 2019
-  - course: BS in Chemical and Biomolecular Engineering
-    institution: University of Maryland, College Park
-    year: 2014
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
