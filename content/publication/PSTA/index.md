@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Pressure-Sensitive Tissue Adhesion and Biodegradation of Viscoelastic Polymer Blends"
-authors: ["John L. Daristotle, Shadden T. Zaki, Lung W. Lau, Omar B. Ayyub, Massi Djouini, Priya Srinivasan, Metecan Erdi, Anthony D. Sandler, Peter Kofinas]
+authors: ["John L. Daristotle, Shadden T. Zaki, Lung W. Lau, Omar B. Ayyub, Massi Djouini, Priya Srinivasan, Metecan Erdi, Anthony D. Sandler, Peter Kofinas"]
 date: 2020-03-19T19:14:28-04:00
 doi: "10.1021/acsami.0c00497"
 
