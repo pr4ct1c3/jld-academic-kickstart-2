@@ -16,8 +16,8 @@ publishDate: 2016-12-01T00:00:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "A Review of the Fundamental Principles and Applications of Solution Blow Spinning"
-publication_short: ""
+publication: "*ACS Applied Materials & Interfaces*"
+publication_short: "*ACS Appl. Mater. Interfaces*"
 
 abstract: "Solution blow spinning (SBS) is a technique that can be used to deposit fibers in situ at low cost for a variety of applications. This review is intended to provide an overview of the basic principles and applications of SBS. We first describe a method for creating a spinnable polymer solution and stable polymer solution jet by manipulating parameters such as polymer concentration and gas pressure. We then discuss the unique bundled morphology and mechanical properties of fiber mats produced by SBS, and how they compare with electrospun fiber mats. Applications of SBS in biomedical engineering, textiles, and electronics are highlighted. Strategies for future research are presented that take advantage of direct and rapid polymer deposition via cost-effective methods."
 

@@ -16,8 +16,8 @@ publishDate: 2015-09-21T00:00:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Biophysical Changes of Lipid Membranes in the Presence of Ethanol at Varying Concentrations"
-publication_short: ""
+publication: "*Journal of Physical Chemistry B*"
+publication_short: "*J. Phys. Chem. B*"
 
 abstract: "Ethanol is widely used as an additive to gasoline, and production of ethanol can come from single-celled organisms such as yeast. We systematically studied the influence of ethanol on common lipids found in yeast plasma membranes, specifically phosphatidylserine (PS), phosphatidylethanolamine (PE), and phosphatidylcholine (PC). Molecular dynamics simulations were used to probe changes to the biophysical properties of membranes with varying equilibrated bulk ethanol concentrations less than 25 mol %. Ethanol was found to interact strongly with POPC, and thus its surface area per lipid, chain order, and electron density profiles differ the most from the neat bilayer. At 12 mol % ethanol in the bulk, ethanol penetrated into the hydrophobic core for all membranes studied, but POPC had the highest penetration. To fully characterize the impact of ethanol on yeast plasma membranes, our results suggest that experiments and simulations need to consider representative mixtures of lipids that exist in vivo."
 

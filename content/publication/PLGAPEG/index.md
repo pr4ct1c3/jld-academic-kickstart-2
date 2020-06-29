@@ -1,25 +1,25 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "PLGAPEG"
-authors: []
-date: 2020-06-28T19:14:08-04:00
-doi: ""
+title: "Biodegradable-Polymer-Blend-Based Surgical Sealant with Body-Temperature-Mediated Adhesion"
+authors: ["Adam M. Behrens, Nora G. Lee, Brendan J. Casey, Priya Srinivasan, Michael J. Sikorski, John L. Daristotle, Anthony D. Sandler, Peter Kofinas"]
+date: 2015-11-10T00:00:00
+doi: "10.1002/adma.201503691"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-06-28T19:14:08-04:00
+publishDate: 2015-11-10T00:00:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "*Advanced Materials*"
+publication_short: "*Adv. Mater.*"
 
-abstract: ""
+abstract: "The development of practical and efficient surgical sealants has the propensity to improve operational outcomes. A biodegradable polymer blend is fabricated as a nonwoven fiber mat in situ. After direct deposition onto the tissue of interest, the material transitions from a fiber mat to a film. This transition promotes polymer–substrate interfacial interactions leading to improved adhesion and surgical sealant performance."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.201503691"
 url_code:
 url_dataset:
 url_poster:
