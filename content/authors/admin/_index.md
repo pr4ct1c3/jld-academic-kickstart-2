@@ -18,9 +18,10 @@ organizations:
   url: "http://jaklenecgroup.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoctoral researcher in the Jaklenec Group at the Langer Lab. My research interests include:
+bio: I am a postdoctoral researcher in the Jaklenec Group at the Langer Lab.
 
 interests:
+My research interests include
 (1) engineering biodegradable polymers for vaccine delivery
 (2) polymer processing for biomedical applications
 (3) drug delivery systems for nucleic acid-based therapeutics
