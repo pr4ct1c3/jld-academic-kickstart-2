@@ -18,27 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Postdoctoral Associate"
+  company = "Jaklenec Group
+  Langer Lab
+  Koch Institute for Integrative Cancer Research
+  Massachusetts Institute of Technology"
+  company_url = "http://jaklenecgroup.mit.edu/"
+  location = "Cambridge, MA"
+  date_start = "2020-01-10"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Engineering drug delivery systems for labile vaccines using microstructured polymers"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Research Assistant"
+  company = "University of Maryland, College Park
+  Fischell Department of Bioengineering"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "College Park, MD"
+  date_start = "2014-08-28"
+  date_end = "2020-01-08"
+  description = """Sprayable, Biodegradable Polymer Blends for Tissue Adhesion"""
+#  Accomplishments:
+#  
+#  * Studied solution blow spinning for in situ deposition of surgical sealants
+#  * Invented tissue adhesive, sprayable blends of biodegradable polymers and nanocomposite fibers
+#  * Investigated controlled siRNA delivery strategies for preventing restenosis
+#  * Developed injectable, tough dual-network hydrogels for hemostasis
+  
+  """
 
 +++
