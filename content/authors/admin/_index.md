@@ -22,7 +22,7 @@ bio: I am a postdoctoral researcher in the Jaklenec Group at the Langer Lab.
 
 interests:
 - biomaterials
-- delivery
+- drug delivery
 - polymer processing
 - immunoengineering
 
