@@ -20,18 +20,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a postdoctoral researcher in the Jaklenec Group at the Langer Lab.
 
-
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Bioengineering
+    institution: University of Maryland
+    year: 2019
+  - course: BS in Chemical and Biomolecular Engineering
+    institution: University of Maryland
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
