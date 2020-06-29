@@ -36,11 +36,10 @@ date_format = "Jan 2006"
   description = """Sprayable, Biodegradable Polymer Blends for Tissue Adhesion"""
 #  Accomplishments:
 #  
-#  Studied solution blow spinning for in situ deposition of surgical sealants
-#  Invented tissue adhesive, sprayable blends of biodegradable polymers and nanocomposite fibers
-#  Investigated controlled siRNA delivery strategies for preventing restenosis
-#  Developed injectable, tough dual-network hydrogels for hemostasis
+#  * Studied solution blow spinning for in situ deposition of surgical sealants
+#  * Invented tissue adhesive, sprayable blends of biodegradable polymers and nanocomposite fibers
+#  * Investigated controlled siRNA delivery strategies for preventing restenosis
+#  * Developed injectable, tough dual-network hydrogels for hemostasis
   
-  """
 
 +++
