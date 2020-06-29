@@ -19,10 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Postdoctoral Associate"
-  company = "Jaklenec Group
-  Langer Lab
-  Koch Institute for Integrative Cancer Research
-  Massachusetts Institute of Technology"
+  company = "Jaklenec Group + Langer Lab @ Koch Institute for Integrative Cancer Research at MIT"
   company_url = "http://jaklenecgroup.mit.edu/"
   location = "Cambridge, MA"
   date_start = "2020-01-10"
@@ -31,9 +28,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Graduate Research Assistant"
-  company = "University of Maryland, College Park
-  Fischell Department of Bioengineering"
-  company_url = ""
+  company = "Functional Macromolecular Lab @ University of Maryland, College Park"
+  company_url = "http://fml.umd.edu"
   location = "College Park, MD"
   date_start = "2014-08-28"
   date_end = "2020-01-08"
