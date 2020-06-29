@@ -41,5 +41,9 @@ date_format = "Jan 2006"
 #  * Investigated controlled siRNA delivery strategies for preventing restenosis
 #  * Developed injectable, tough dual-network hydrogels for hemostasis
   
+  
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]  
 
 +++
