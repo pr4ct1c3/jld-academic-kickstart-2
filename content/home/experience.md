@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "College Park, MD"
   date_start = "2014-08-28"
   date_end = "2020-01-08"
-  description = """Sprayable, Biodegradable Polymer Blends for Tissue Adhesion"""
+  description = """Sprayable, biodegradable polymer blends for tissue adhesion"""
 #  Accomplishments:
 #  
 #  * Studied solution blow spinning for in situ deposition of surgical sealants
