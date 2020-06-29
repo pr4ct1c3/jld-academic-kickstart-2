@@ -20,6 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a postdoctoral researcher in the Jaklenec Group at the Langer Lab.
 
+interests:
+- biomaterials
+- delivery
+- polymer processing
+- immunoengineering
+
 education:
   courses:
   - course: PhD in Bioengineering
@@ -65,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher in the Jaklenec Group at the Langer Lab. My research interests include:
+I am a postdoctoral researcher in the Jaklenec Group at the Langer Lab. My research projects include:
 
 * engineering biodegradable polymers for vaccine delivery
 * polymer processing for biomedical applications
