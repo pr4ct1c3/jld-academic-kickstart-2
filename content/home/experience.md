@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Postdoctoral Associate"
-  company = "Jaklenec Group + Langer Lab @ Koch Institute for Integrative Cancer Research at MIT"
+  company = "Jaklenec Group + Langer Lab, Koch Institute for Integrative Cancer Research at MIT"
   company_url = "http://jaklenecgroup.mit.edu/"
   location = "Cambridge, MA"
   date_start = "2020-01-10"

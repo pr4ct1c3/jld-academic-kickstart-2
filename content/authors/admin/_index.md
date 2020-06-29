@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: John L. Daristotle
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Jaklenec Group + Langer Lab, Koch Institute for Integrative Cancer Research at MIT
+  url: "http://jaklenecgroup.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+I am a postdoctoral researcher in the Jaklenec Group at the Langer Lab. My research interests include:
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+(1) engineering biodegradable polymers for vaccine delivery
+(2) polymer processing for biomedical applications
+(3) drug delivery systems for nucleic acid-based therapeutics
+(4) immunomodulatory biomaterials
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Bioengineering
+    institution: University of Maryland, College Park
+    year: 2019
+  - course: BS in Chemical and Biomolecular Engineering
+    institution: University of Maryland, College Park
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +68,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral researcher in the Jaklenec Group at the Langer Lab. My research interests include:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+(1) engineering biodegradable polymers for vaccine delivery
+(2) polymer processing for biomedical applications
+(3) drug delivery systems for nucleic acid-based therapeutics
+(4) immunomodulatory biomaterials
