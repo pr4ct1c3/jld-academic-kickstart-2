@@ -5,7 +5,7 @@ name = "OpenSans"
 google_fonts = "Open+Sans"
 
 # Font families
-heading_font = "OpenSans"
-body_font = "OpenSans"
-nav_font = "OpenSans"
-mono_font = "OpenSans"
+heading_font = "Open Sans"
+body_font = "Open Sans"
+nav_font = "Open Sans"
+mono_font = "Open Sans"
