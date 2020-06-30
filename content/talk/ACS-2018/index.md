@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ACS 2018"
-event:
-event_url:
-location:
+title: "Incorporating silica particles improves the adhesion, flexibility, and hemostatic efficacy of a polymer blend surgical sealant"
+event: "American Chemical Society Fall Meeting 2018"
+event_url: "https://www.acs.org/content/acs/en/meetings/national-meeting.html"
+location: "Boston, MA, USA"
 address:
   street:
   city:
@@ -12,12 +12,12 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: "Surgical sealants are supplements to conventional wound closure devices that augment hemostasis and may reduce complication rate. However, commercially available surgical sealants adhere poorly to wet tissue and are difficult to apply precisely. Here, solution blow spinning (SBS) serves as a sprayable deposition method for easily depositing conformal surgical sealants directly to the wound. The objective of this research is to increase tissue adhesion by incorporating nano-to-microscale particles into a poly(lactic-co-glycolic) acid and poly(ethylene glycol) blend sealant (PLGA/PEG) whose deposition is compatible with SBS. Our experiments focus on understanding how the silica particles interact at the interface with tissue, measuring adhesive interactions, and determining possible mechanisms for adhesion improvement which may be of broader interest to the field of surface science. Adhesion increases dramatically by incorporating silica particles into the PLGA/PEG blend surgical sealant, but does not cause a significant decrease in cell viability. Composite PLGA/PEG/SiO2 sealants produce intestinal burst pressures that are comparable to cyanoacrylate glue (156 mmHg), ~2 times greater than PLGA/PEG (59 mmHg), and ~3 times greater than fibrin glue (48.6 mmHg). Adhesive force increases by 20% while adhesion energy, which takes into account work dissipated by the bulk of the sealant, is 20 times higher. Scanning electron microscopy shows silica particles sandwiched at the interface between tissue and sealant, where they create dense networks of physical bonds. These improvements demonstrate the potential of a simple composite design to increase adhesion through physical, noncovalent mechanisms."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-06-29T22:42:27-04:00
-date_end: 2020-06-29T22:42:27-04:00
+date: 2018-08-20T15:20:00
+# date_end: 2020-06-29T22:42:27-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
