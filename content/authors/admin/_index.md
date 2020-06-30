@@ -21,10 +21,10 @@ organizations:
 bio: I am a postdoctoral researcher in the Jaklenec Group at the Langer Lab.
 
 interests:
-- biomaterials
 - drug delivery
 - polymer processing
 - immunoengineering
+- surgical materials
 
 education:
   courses:
